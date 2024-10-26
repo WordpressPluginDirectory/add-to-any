@@ -542,11 +542,23 @@ $A2A_FOLLOW_services = array(
 		'icon' => 'snapchat',
 		'color' => '2A2A2A',
 	),
+	'steam' => array(
+		'name' => 'Steam',
+		'href' => 'https://steamcommunity.com/id/${id}',
+		'icon' => 'steam',
+		'color' => '171d25',
+	),
 	'tumblr' => array(
 		'name' => 'Tumblr',
 		'href' => 'http://${id}.tumblr.com',
 		'icon' => 'tumblr',
 		'color' => '35465C',
+	),
+	'twitch' => array(
+		'name' => 'Twitch',
+		'href' => 'https://www.twitch.tv/${id}',
+		'icon' => 'twitch',
+		'color' => '9146ff',
 	),
 	'twitter' => array(
 		'name' => 'Twitter',
