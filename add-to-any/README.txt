@@ -5,7 +5,7 @@ License: GPLv2 or later
 Requires at least: 4.5
 Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 1.8.12
+Stable tag: 1.8.13
 
 Share buttons for WordPress including the AddToAny button, Facebook, Mastodon, WhatsApp, Pinterest, Reddit, Threads, many more, and follow icons too.
 
@@ -335,8 +335,7 @@ Upload (or move) the `add-to-any` plugin directory into the `/wp-content/mu-plug
 
 == Changelog ==
 
-= 1.8.12 =
-* Add Steam follow button
-* Add Twitch follow button
+= 1.8.13 =
+* Fix defaults in settings
 
 See `changelog.txt` in the plugin's directory for the full changelog.
